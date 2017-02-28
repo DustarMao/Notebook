@@ -1,0 +1,22 @@
+{
+  "name": "play-ts",
+  "version": "1.0.0",
+  "description": "+ issues as notes\r + play in branches",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DustarMao/Notebook.git"
+  },
+  "author": "Dustar Mao",
+  "license": "WTFPL",
+  "bugs": {
+    "url": "https://github.com/DustarMao/Notebook/issues"
+  },
+  "homepage": "https://github.com/DustarMao/Notebook#readme",
+  "devDependencies": {
+    "typescript": "^2.2.1"
+  }
+}
